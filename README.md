@@ -11,6 +11,7 @@ CanadaHealthCare is a SwiftUI application aimed at providing users access to var
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+- [Team Members](#team-members)
 
 ## Features
 
@@ -87,19 +88,13 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - **Xcode**: Integrated development environment (IDE) for Swift development.
 - **Health Resources APIs**: Leveraged for health information and services.
 
+## Team Members
+
+- **Yash Suthar** - Design & Development
+- **Dhwani Randeri** - Planning
+- **Jasjit Singh** - Research
+
 For any questions or feedback, feel free to reach out through the repository's issues page or contact the project maintainer.
 ```
 
-### Notes on Customization:
-
-1. **Replace Placeholder Text**: Make sure to replace `https://github.com/yourusername/CanadaHealthCare.git` with the actual URL of your repository.
-   
-2. **Installation Commands**: Adjust the steps for installation and dependencies according to the tools you use (e.g., CocoaPods, Swift Package Manager).
-   
-3. **License**: Adjust the license information based on your preference and the actual LICENSE file in your project.
-   
-4. **Contributing Guidelines**: You may want to expand the contributing section with guidelines specific to your project.
-   
-5. **Additional Features**: Add any additional features or sections relevant to your application.
-
-This README template provides a comprehensive overview of your project while guiding users and contributors through the installation and usage processes.
+This version includes the team members and their roles section at the end, ensuring proper acknowledgment of contributions from each member.
